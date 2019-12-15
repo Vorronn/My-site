@@ -66,3 +66,43 @@ header.header div.contact a img{
     /* background: red; */
     margin: 35px 15px;
 }
+
+
+/* +++++++++++++++++++header-navigation+++++++++++++++++++ */
+/* +++++++++++++++++++header-navigation+++++++++++++++++++ */
+/* +++++++++++++++++++header-navigation+++++++++++++++++++ */
+/* +++++++++++++++++++header-navigation+++++++++++++++++++ */
+/* +++++++++++++++++++header-navigation+++++++++++++++++++ */
+/* +++++++++++++++++++header-navigation+++++++++++++++++++ */
+/* +++++++++++++++++++header-navigation+++++++++++++++++++ */
+
+header.header nav.navigation {
+    background-color: #71f7f7;
+    
+}
+
+
+header.header nav.navigation ul {
+    font-size: 0;
+    height: 50px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+header.header nav.navigation ul li {
+    display: inline-block;
+    font-size: 16px;
+    font-family: Tahoma, sans-serif;
+    margin: 15px;
+}  
+
+
+header.header nav.navigation ul li a{
+    text-decoration: none;
+    
+}
