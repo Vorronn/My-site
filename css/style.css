@@ -17,7 +17,7 @@ header.header {
     height: 100px;
     background-color: #1aa7a7;
     border-bottom: 5px solid #71f7f7;
-    
+       
 }
 
 header.header div.face {
@@ -78,6 +78,7 @@ header.header div.contact a img {
 
 header.header nav.navigation {
     background-color: #71f7f7;
+    margin-bottom: 100px;
     
 }
 
