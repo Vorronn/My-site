@@ -105,5 +105,7 @@ header.header nav.navigation ul li {
 
 header.header nav.navigation ul li a{
     text-decoration: none;
+    font-size: 16px;
+    font-family: Tahoma, sans-serif;
     
 }
